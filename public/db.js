@@ -3,7 +3,7 @@ const budgetPending = db.createObjectStore("pending", {
   });
   console.log(budgetPending);
   budgetPending.createIndex("statusIndex", "status")
-};
+
 request.onsuccess = function (event) {
   db = event.target.result;
   if (navigator.onLine) {
