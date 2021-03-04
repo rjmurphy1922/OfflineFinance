@@ -32,7 +32,7 @@
   No testing Information
 
   ## Technologiess
-  Index DB, Javascript,HTML
+  IndexDB, Javascript,HTML
 
    ## Questions
 
